@@ -1,0 +1,48 @@
+body {
+	background-color:#F5F1E5;
+	font-family:Arial;
+	margin:20px 20px 20px 20px;
+	position: relative;
+	min-height: 416px;
+	-webkit-background-size:0.438em 100%; 
+	-webkit-touch-callout: none;
+}
+
+.content {
+	width:100%;
+	background-color:#fff;
+	border-style:solid;
+	border-width:2px;
+	border-color:#333;
+	border-radius:15px;
+	-moz-border-radius:15px;
+	text-align:center;
+}
+
+.title {
+	font-size:24px;
+}
+
+.error {
+	color:red;
+	font-weight:bold;
+	font-family:Verdana;
+}
+
+.webapp {
+	background-image:url('images/webappbg.png');
+	background-repeat:repeat;
+	color:#fff;
+	font-family:Arial;
+	font-size:17px;
+	text-align:24px;
+	width:96%;
+	height:45px;
+	border-style:solid;
+	border-width:2px;
+	border-color:#333;
+	padding:8px;
+	border-radius:15px;
+	-moz-border-radius:15px;
+	text-align:center;
+}
