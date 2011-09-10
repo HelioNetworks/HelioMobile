@@ -81,5 +81,5 @@ echo get_status('Heliohost');
 
 <table class="buttons" align="center" cellpadding="6"><tr>
 <td width="33%"><div class="content" onclick="window.location='http://<?php echo $_SESSION['server']; ?>.heliohost.org:2082'" style="cursor:pointer;">cPanel</div></td>
-<td width="33%"><div class="content" onclick="window.location='http;//central.heliopanel.heliohost.org'" style="cursor:pointer;">HelioPanel</div></td>
+<td width="33%"><div class="content" onclick="window.location='http://central.heliopanel.heliohost.org'" style="cursor:pointer;">HelioPanel</div></td>
 </tr></table>
