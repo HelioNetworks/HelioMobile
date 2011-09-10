@@ -28,6 +28,6 @@ if (!isset($_SESSION['username'])) {
 </td>
 <td width="120"><center><a href="login.php?act=logout"><img src="images/logoutbutton.png" border="0"></a></center></td>
 </tr></table>
-<iframe name='cpupdate' src='http://www.heliohost.org/scripts/renew.php?fromcpanel=1&username=jje' width='1' height='1' frameborder='0'></iframe> 
+<iframe name='cpupdate' src='http://www.heliohost.org/scripts/renew.php?fromcpanel=1&username=<?php echo $_SESSION['username']; ?>' width='1' height='1' frameborder='0'></iframe> 
 
 </body>
