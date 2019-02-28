@@ -1,3 +1,7 @@
+> ## Archived 
+> This repo has been archived and is no longer maintained.\
+> If you want to use, edit or improve this code, you are welcome to fork it ***but*** we may not acknowledge this and pull requests may be ignored.
+
 ## Welcome to HelioMobile! ##
 HelioMobile is an open source PHP website that provides mobile users an optimized version of the services HelioNetworks offer, including an instant update on the server status, twitter feed, and cPanel logins. As well as that, there are links to the many different areas of HelioHost as well as commonly used scripts built right into the system. HelioMobile can be browsed in any normal mobile web browser or it can be installed as a Web App on any iOS device. HelioMobile has been tested on iPhone and iPod Touch, but many other mobile operating systems should be able to display it. To access HelioMobile, go to http://helionet.org/m from your mobile device.
 
